@@ -5,7 +5,7 @@ A simple script with a command line interface that automatically generates well 
 ## Terminal
 **The user is greeted with a simple input prompt. Upon entering a word cards are generated accordingly as per the wiktionary entry.**
 
-![Terminal Interface Example](./terminal_example.png)
+![Terminal Interface Example](./Images/terminal_example.png)
 
 ## Cards
 
@@ -13,7 +13,7 @@ A simple script with a command line interface that automatically generates well 
 
 | Frontside | Backside |
 | :---: | :---: |
-| ![Front](./verb_front.png) | ![Back](./verb_back.png) |
+| ![Front](./Images/verb_front.png) | ![Back](./Images/verb_back.png) |
 
 ##
 
@@ -21,7 +21,7 @@ A simple script with a command line interface that automatically generates well 
 
 | Frontside | Backside |
 | :---: | :---: |
-| ![Front](./noun_front.png) | ![Back](./noun_back.png) |
+| ![Front](./Images/noun_front.png) | ![Back](./Images/noun_back.png) |
 
 ##
 
@@ -29,6 +29,6 @@ A simple script with a command line interface that automatically generates well 
 
 | Frontside | Backside |
 | :---: | :---: |
-| ![Front](./example_front.png) | ![Back](./example_back.png) |
+| ![Front](./Images/example_front.png) | ![Back](./Images/example_back.png) |
 
 ##
